@@ -37,5 +37,7 @@ Epoch 10/10
 ```
 
 
+![Learning Curve](https://github.com/danrosher/colab/blob/main/learning_curve.png)
+
  
  
