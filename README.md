@@ -34,11 +34,11 @@ Non-trainable params: 2,832,544
  
  
 Epoch 1/3
-70/70 [==============================] - 22s 310ms/step - loss: 0.1433 - accuracy: 0.9634 - val_loss: 0.1928 - val_accuracy: 0.9751
+70/70 [==] - 22s 310ms/step - loss: 0.1433 - accuracy: 0.9634 - val_loss: 0.1928 - val_accuracy: 0.9751
 Epoch 2/3
-70/70 [==============================] - 22s 314ms/step - loss: 0.1275 - accuracy: 0.9698 - val_loss: 0.1491 - val_accuracy: 0.9627
+70/70 [==] - 22s 314ms/step - loss: 0.1275 - accuracy: 0.9698 - val_loss: 0.1491 - val_accuracy: 0.9627
 Epoch 3/3
-70/70 [==============================] - 22s 312ms/step - loss: 0.1196 - accuracy: 0.9689 - val_loss: 0.0802 - val_accuracy: 0.9876
+70/70 [==] - 22s 312ms/step - loss: 0.1196 - accuracy: 0.9689 - val_loss: 0.0802 - val_accuracy: 0.9876
 ```
 
 ### Accuracy graph
